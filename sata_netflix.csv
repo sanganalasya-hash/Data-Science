@@ -1,119 +1,81 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyOUU3+JO3RTvlxRzR53c6th",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/sanganalasya-hash/Data-Science/blob/main/sata_netflix.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "34\n",
-        "64\n",
-        "24\n",
-        "40\n",
-        "40\n",
-        "21\n",
-        "24\n",
-        "30\n",
-        "30\n",
-        "16\n",
-        "7\n",
-        "20\n",
-        "12\n",
-        "14\n",
-        "24\n",
-        "20\n",
-        "8\n",
-        "6\n",
-        "24\n",
-        "6\n",
-        "10\n",
-        "8\n",
-        "10\n",
-        "9\n",
-        "6\n",
-        "8\n",
-        "8\n",
-        "4\n",
-        "8\n",
-        "40\n",
-        "48\n",
-        "16\n",
-        "10\n",
-        "18\n",
-        "16\n",
-        "5\n",
-        "8\n",
-        "18\n",
-        "10\n",
-        "8\n",
-        "10\n",
-        "8\n",
-        "6\n",
-        "16\n",
-        "10\n",
-        "16\n",
-        "8\n",
-        "8\n",
-        "8\n",
-        "10\n",
-        "20\n",
-        "45\n",
-        "8\n",
-        "8\n",
-        "8\n",
-        "10\n",
-        "10\n",
-        "9\n",
-        "10\n",
-        "27\n",
-        "16\n",
-        "8\n",
-        "6\n",
-        "6\n",
-        "18\n",
-        "12\n",
-        "12\n",
-        "8\n",
-        "76\n",
-        "39\n",
-        "20\n",
-        "22\n",
-        "20\n",
-        "30\n",
-        "39\n",
-        "52\n",
-        "16\n",
-        "13\n",
-        "8\n",
-        "5\n",
-        "7\n"
-      ],
-      "metadata": {
-        "id": "P8un3qGAH8Sc"
-      }
-    }
-  ]
-}
+34
+64
+24
+40
+40
+21
+24
+30
+30
+16
+7
+20
+12
+14
+24
+20
+8
+6
+24
+6
+10
+8
+10
+9
+6
+8
+8
+4
+8
+40
+48
+16
+10
+18
+16
+5
+8
+18
+10
+8
+10
+8
+6
+16
+10
+16
+8
+8
+8
+10
+20
+45
+8
+8
+8
+10
+10
+9
+10
+27
+16
+8
+6
+6
+18
+12
+12
+8
+76
+39
+20
+22
+20
+30
+39
+52
+16
+13
+8
+5
+7
